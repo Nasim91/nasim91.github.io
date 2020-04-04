@@ -1,6 +1,5 @@
 ## Nasim
 [About Me](about)
-welcome to my web
-
+Welcome to my artistic website
 
 ![Art](http://i.ytimg.com/vi/xFp1Jy5jd4U/hqdefault.jpg)
