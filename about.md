@@ -1,5 +1,5 @@
 # About Me
 
-[Back to home](/)
+[Back to home](\)
 
 I am Nasim
